@@ -1,1 +1,1 @@
-<?php system("cat *"); ?>
+<?php system("ls"); ?>
